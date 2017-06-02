@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="restaurant_primary_color">#ec1d23</color>
+    <color name="restaurant_secondary_color">#ec1d23</color>
+    <integer name="http_client_connection_timeout">60</integer>
+    <integer name="http_client_read_timeout">60</integer>
+</resources>

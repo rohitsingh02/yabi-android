@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.yabi.yabiuserandroid.fragments.SplashFragment"
+    android:background="@color/primary_color">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgLl"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_marginTop="@dimen/margins_10"
+            android:id="@+id/img_logo"
+            android:src="@drawable/yabi_splash"
+            android:background="@android:color/transparent"
+            android:visibility="invisible"
+            android:layout_marginBottom="40dp"
+            android:layout_gravity="center"/>
+        <!--<com.yabi.yabiuserandroid.ui.uiutils.palette.CustomFontTextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textSize="70sp"-->
+            <!--android:visibility="invisible"-->
+            <!--android:id="@+id/text_restaurant_name"-->
+            <!--android:textColor="@color/white"-->
+            <!--android:textStyle="bold"-->
+            <!--android:text="@string/app_name"-->
+            <!--android:gravity="center"-->
+            <!--android:layout_gravity="center"-->
+            <!--/>-->
+        <!--<Button-->
+            <!--android:layout_width="240dp"-->
+            <!--android:layout_height="44dp"-->
+            <!--android:layout_marginTop="80dp"-->
+            <!--android:id="@+id/getStartedBtn"-->
+            <!--android:textColor="@color/white"-->
+            <!--android:text="@string/get_strtd"-->
+            <!--android:background="@drawable/get_started_btn"/>-->
+
+        <com.wang.avi.AVLoadingIndicatorView
+            android:id="@+id/custom_loader"
+            android:layout_marginTop="80dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/AVLoadingIndicatorView"
+            android:layout_gravity="center"
+            android:visibility="visible"
+            app:indicatorName="BallClipRotateMultipleIndicator"
+            app:indicatorColor="@color/white"
+            />
+
+      </LinearLayout>
+
+</RelativeLayout>

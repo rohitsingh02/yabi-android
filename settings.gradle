@@ -1,0 +1,3 @@
+include ':app'
+//include ':yabi'
+//project(':yabi').projectDir = new File(settingsDir, '../yabi-android-client/yabi')

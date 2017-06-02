@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/merchNameTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#0e0e0e"
+        android:padding="10dp"/>
+
+    <LinearLayout
+        android:id="@+id/couponLl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_below="@+id/merchNameTv"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#0e0e0e"
+            android:text="@string/coupon_use"
+            android:id="@+id/useOfferTv"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="#2DFF2D"
+            android:id="@+id/couponTv"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ofr_avail"
+            android:textColor="#0e0e0e"
+            android:id="@+id/availOfferTv"/>
+    </LinearLayout>
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="@dimen/margins_10"
+      android:gravity="center"
+      android:id="@+id/conditionTv"
+      android:layout_below="@+id/couponLl"
+      />
+
+     <Button
+         android:id="@+id/shareBtn"
+         android:layout_below="@+id/conditionTv"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textColor="#0f9c8e"
+         style="?android:attr/borderlessButtonStyle"
+         android:layout_alignParentLeft="true"
+         android:text="Share"/>
+
+    <Button
+        android:id="@+id/saveBtn"
+        android:layout_below="@+id/conditionTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#0f9c8e"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_toRightOf="@+id/shareBtn"
+        android:text="SAVE"/>
+
+    <Button
+        android:id="@+id/okBtn"
+        android:layout_below="@+id/conditionTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#0f9c8e"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_alignParentRight="true"
+        android:text="Ok"/>
+
+</RelativeLayout>

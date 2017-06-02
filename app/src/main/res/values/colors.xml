@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">@color/default_background_color</color>
+    <color name="default_background_color">#fffffe</color>
+    <color name="default_transparent_color">@android:color/transparent</color>
+    <!-- Splash Screen -->
+    <color name="splash_screen_order_online_button_color_normal">@color/color_secondary</color>
+    <color name="splash_screen_order_online_button_color_pressed">@color/color_secondary</color>
+    <color name="splash_screen_toolbar_bottom_border_color">#dbdbdb</color>
+
+    <color name="light_separator">#1F000000</color>
+
+    <!-- Fetching Location -->
+    <color name="fetching_location_automatic_text_color">@color/color_primary_text</color>
+    <color name="color_primary">@color/restaurant_primary_color</color>
+    <color name="color_primary_dark">@color/md_red_900</color>
+    <color name="color_accent">#000000</color>
+    <color name="color_primary_text">#494949</color>
+    <color name="color_primary_hint_text">#989898</color>
+    <color name="color_secondary">@color/restaurant_secondary_color</color>
+
+    <!-- Menu Activity -->
+    <color name="menu_screen_toolbar_title_text_color">@color/color_primary_text</color>
+    <color name="menu_screen_color_primary">@color/color_primary</color>
+    <color name="menu_screen_color_primary_dark">@color/color_primary_dark</color>
+    <color name="menu_screen_primary_text_color">@color/color_primary_text</color>
+    <color name="menu_screen_quick_cart_total_text_color">@color/menu_screen_primary_text_color</color>
+    <color name="menu_screen_quick_cart_minimum_order_text_color">@color/menu_screen_color_primary</color>
+
+    <!-- Offer Screen -->
+    <color name="offer_screen_top_text_color">@color/color_primary_text</color>
+    <color name="offer_screen_offer_name_text_color">@color/color_primary_text</color>
+    <color name="offer_screen_offer_description_text_color">@color/color_primary_text</color>
+    <color name="offer_screen_offer_text_description2_color">@color/color_primary_text</color>
+    <color name="offer_screen_copy_offer_coupon_code_text_color">@color/menu_screen_color_primary</color>
+
+    <!-- Menu Screen -->
+    <color name="menu_screen_category_parent_list_item_background">#fdfdfd</color>
+    <color name="menu_screen_category_parent_list_item_border">#d9d9d9</color>
+    <color name="menu_screen_category_child_list_item_head_text_color">@color/menu_screen_primary_text_color</color>
+
+    <!-- Pre Order Screen -->
+    <color name="pre_order_screen_main_content_text_color">@color/menu_screen_primary_text_color</color>
+    <!-- Material Colors -->
+    <!-- Material DEFAULT colors -->
+    <color name="material_drawer_primary">#2196F3</color>
+    <color name="material_drawer_primary_dark">#1976D2</color>
+    <color name="material_drawer_primary_light">#BBDEFB</color>
+    <color name="material_drawer_accent">#FF4081</color>
+
+    <!-- OVERWRITE THESE COLORS FOR A LIGHT THEME -->
+    <!-- MaterialDrawer DEFAULT colors -->
+    <color name="material_drawer_background">#Fbfbfb</color>
+    <!-- Material DEFAULT text / items colors -->
+    <color name="material_drawer_primary_text">#DE000000</color>
+    <color name="material_drawer_primary_icon">#8A000000</color>
+    <color name="material_drawer_secondary_text">#8A000000</color>
+    <color name="material_drawer_hint_text">#42000000</color>
+    <color name="material_drawer_divider">#1F000000</color>
+    <!-- Material DEFAULT drawer colors -->
+    <color name="material_drawer_selected">#E8E8E8</color>
+    <color name="material_drawer_selected_text">@color/color_primary</color>
+    <color name="material_drawer_selected_icon">@color/color_primary</color>
+    <color name="material_drawer_header_selection_text">#000000</color>
+    <color name="mobikwik">#3fa7ba</color>
+
+    <color name="chat_background">#c8ff050c</color>
+
+    //new app colors
+
+    <color name="transparent">#00000000</color>
+    <color name="primary_color">#db4538</color>
+    <color name="secondary_color">#983027</color>
+    <color name="tertiary_color">#ffcc00</color>
+    <color name="background_color">#f5f5f5</color>
+    <color name="black_90">#000144</color>
+    <color name="black_50">#000080</color>
+    <color name="black_30">#c8ff050c</color>
+    <color name="light_gray">#d3d3d3</color>
+    <color name="dark_gray">#a9a9a9</color>
+    <color name="profile_bg"> #424A60</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#439DF5</color>
+    <color name="bg_screen2">#E5B701</color>
+    <color name="bg_screen3">#8161AC</color>
+    <color name="bg_screen4">#05CCB5</color>
+
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#3276B7</color>
+    <color name="dot_dark_screen2">#BF9800</color>
+    <color name="dot_dark_screen3">#604780</color>
+    <color name="dot_dark_screen4">#019887</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#ffffff</color>
+    <color name="dot_light_screen2">#ffffff</color>
+    <color name="dot_light_screen3">#ffffff</color>
+    <color name="dot_light_screen4">#ffffff</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+    <color name="menu_screen_quick_cart_minimum_order_color">@color/menu_screen_color_primary</color>
+    <color name="cyan500">#00bcd4</color>
+    <!--Theme & Accent -->
+    <color name="red500">#F44336</color>
+    <color name="teal100">#B2DFDB</color>
+    <color name="teal500">#009688</color>
+    <color name="cyan900">#006064</color>
+    <color name="lightBlue300">#4FC3F7</color>
+    <color name="lightBlue500">#03A9F4</color>
+    <color name="deepOrange500">#FF5722</color>
+    <color name="amber500">#FFC107</color>
+
+    <color name="green500">#4CAF50</color>
+
+    <!-- Bubble color -->
+    <color name="default_left_bubble_color">@color/button_material_light</color>
+    <color name="default_right_bubble_color">@color/green500</color>
+
+    <!-- Grey scales -->
+    <color name="gray200">#EEEEEE</color>
+    <color name="gray300">#E0E0E0</color>
+    <color name="blueGray50">#ECEFF1</color>
+    <color name="blueGray200">#B0BEC5</color>
+    <color name="blueGray300">#90A4AE</color>
+    <color name="blueGray500">#607D8B</color>
+    <color name="blueGray700">#455A64</color>
+
+
+    <color name="crazy_blue">#0F74B4</color>
+    <color name="crazy_white">#F4F2F2</color>
+    <color name="crazy_gray">#E8E7E7</color>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

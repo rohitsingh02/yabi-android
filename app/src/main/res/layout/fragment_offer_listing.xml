@@ -1,0 +1,24 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/md_grey_50"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:id="@+id/offerLayoutContainer"
+        android:layout_height="match_parent"
+        tools:context="com.yabi.yabiuserandroid.fragments.OfferListingFragment">
+
+        <ListView
+            android:id="@+id/list_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/md_grey_50"></ListView>
+    </RelativeLayout>
+
+    <include
+        android:id="@+id/errorLayout"
+        layout="@layout/error_base_layout" />
+</FrameLayout>

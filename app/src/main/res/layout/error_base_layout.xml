@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:visibility="gone"
+    android:id="@+id/errorLayout"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:id="@+id/errorImg"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/coach_bg"
+        android:src="@drawable/error" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/errorMsgTitle"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="@dimen/margins_10"
+        android:textAlignment="center"
+        android:textSize="@dimen/slide_desc" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/errorMsgDesc"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="@dimen/margins_20"
+        android:textAlignment="center"
+        android:textSize="17sp" />
+    <Button
+        android:id="@+id/tryAgainBtn"
+        android:layout_width="180dp"
+        android:layout_height="44dp"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/bg_next_edited_drawable"
+        android:text="@string/retry_txt"
+        android:textColor="@color/white" />
+</LinearLayout>

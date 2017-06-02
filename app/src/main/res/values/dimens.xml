@@ -1,0 +1,118 @@
+<resources>
+
+    <dimen name="nav_drawer_width">280dp</dimen>
+    <dimen name="app_bar_top_padding">0dp</dimen>
+    <dimen name="nav_background_image_height">148dp</dimen>
+    <dimen name="drawer_margin_top">24dp</dimen>
+    <dimen name="card_margin_top">2dp</dimen>
+    <dimen name="card_margin_left">8dp</dimen>
+
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="button_width">128dp</dimen>
+    <dimen name="logo_height">40dp</dimen>
+
+
+    <dimen name="material_drawer_account_header_height">148dp</dimen>
+    <dimen name="material_drawer_account_header_horizontal_top">16dp</dimen>
+    <dimen name="material_drawer_account_header_horizontal_bottom">4dp</dimen>
+    <dimen name="material_drawer_account_header_selected">64dp</dimen>
+
+
+    <dimen name="material_drawer_vertical_padding">16dp</dimen>
+    <dimen name="material_drawer_padding">8dp</dimen>
+    <dimen name="font_size_12sp">12sp</dimen>
+    <dimen name="font_size_16sp">16sp</dimen>
+
+
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="font_size_14sp">14sp</dimen>
+    <dimen name="font_size_18sp">18sp</dimen>
+    <dimen name="font_size_20sp">20sp</dimen>
+    <dimen name="font_size_10sp">10sp</dimen>
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_margin_bottom">20dp</dimen>
+    <dimen name="img_width_height">120dp</dimen>
+    <dimen name="slide_title">40dp</dimen>
+    <dimen name="slide_desc">22dp</dimen>
+    <dimen name="desc_padding">80dp</dimen>
+    <dimen name="dimen_2">2dp</dimen>
+    <dimen name="signin_profile_width">96dp</dimen>
+
+
+    <!-- MARGINS -->
+    <dimen name="margins_5">5dp</dimen>
+    <dimen name="margins_10">10dp</dimen>
+    <dimen name="margins_15">15dp</dimen>
+    <dimen name="margins_25">25dp</dimen>
+    <dimen name="margins_20">20dp</dimen>
+    <dimen name="margins_30">30dp</dimen>
+    <dimen name="margins_35">35dp</dimen>
+    <dimen name="margins_40">40dp</dimen>
+    <dimen name="margins_60">60dp</dimen>
+    <dimen name="item_margin">8dp</dimen>
+
+
+    <!-- Text Sizes -->
+    <dimen name="text_12">12sp</dimen>
+    <dimen name="text_14">14sp</dimen>
+    <dimen name="text_16">16sp</dimen>
+    <dimen name="text_18">18sp</dimen>
+    <dimen name="text_20">20sp</dimen>
+    <dimen name="text_22">22sp</dimen>
+    <dimen name="text_24">24sp</dimen>
+    <dimen name="text_26">26sp</dimen>
+    <dimen name="text_28">28sp</dimen>
+    <dimen name="text_30">30sp</dimen>
+
+
+
+    <!-- item_margin-->
+    <dimen name="minimum_column_width">300dp</dimen>
+
+    <!--widget dimens-->
+    <dimen name="widget_default_height">72dp</dimen>
+    <dimen name="widget_default_width">72dp</dimen>
+
+
+    <!-- view dimensions and spacing -->
+    <dimen name="bubble_width">70dp</dimen>
+    <dimen name="bubble_height">70dp</dimen>
+    <dimen name="bubble_trash_width">80dp</dimen>
+
+
+    <!-- Font size -->
+    <dimen name="font_large">25sp</dimen>
+    <dimen name="font_normal">20sp</dimen>
+    <dimen name="font_small">15sp</dimen>
+
+    <!-- Icon size -->
+    <dimen name="icon_normal">30dp</dimen>
+
+    <!-- Spacing between two views -->
+    <dimen name="spacing_huge">100dp</dimen>
+    <dimen name="spacing_large">50dp</dimen>
+    <dimen name="spacing_normal">20dp</dimen>
+    <dimen name="spacing_small">16dp</dimen>
+    <dimen name="spacing_tiny">12dp</dimen>
+    <dimen name="spacing_micro">10dp</dimen>
+    <dimen name="spacing_line">2dp</dimen>
+
+    <!-- Layout width -->
+    <dimen name="width_normal">150dp</dimen>
+    <dimen name="width_small">100dp</dimen>
+
+    <!-- Layout height -->
+    <dimen name="line_height">1dp</dimen>
+
+    <!-- Radius -->
+    <dimen name="view_radius_normal">20dp</dimen>
+
+</resources>

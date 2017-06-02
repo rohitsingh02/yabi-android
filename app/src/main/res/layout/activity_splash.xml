@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/default_background_color"
+    android:id="@+id/root_layout">
+
+    <FrameLayout
+        android:id="@+id/main_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/default_background_color"/>
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/appbar">
+        <android.support.v7.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="?android:attr/actionBarSize"
+            android:id="@+id/toolbar"
+            android:background="@color/default_background_color"
+            app:theme="@style/ToolbarColoredBackArrowDark"
+            android:theme="@style/ToolbarColoredBackArrowDark"
+            android:popupTheme="@style/ToolbarColoredBackArrowDark"
+            >
+
+        </android.support.v7.widget.Toolbar>
+    </android.support.design.widget.AppBarLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/splash_screen_toolbar_bottom_border_color"
+        android:foregroundGravity="bottom"
+        android:layout_below="@+id/appbar"
+        android:id="@+id/toolbar_bottom"
+        android:visibility="gone"
+        />
+</RelativeLayout>

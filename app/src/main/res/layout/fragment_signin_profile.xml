@@ -1,0 +1,101 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context="com.yabi.yabiuserandroid.fragments.SigninProfileFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+        <include
+            android:id="@+id/noInternet"
+            layout="@layout/layout_no_internet"/>
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.4">
+
+            <ImageView
+                android:id="@+id/img_profile"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:src="@drawable/sign_up" />
+
+            <com.yabi.yabiuserandroid.ui.uiutils.palette.CustomFontTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="50dp"
+                android:text="@string/sign_up"
+                android:textColor="@color/white"
+                android:textSize="40sp" />
+        </FrameLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margins_30"
+            android:layout_marginTop="@dimen/margins_20"
+            android:gravity="center"
+            android:text="@string/sign_mob_no"
+            android:textSize="17sp" />
+
+        <com.yabi.yabiuserandroid.ui.uiutils.palette.PrefixEditText
+            android:id="@+id/txt_profile_phone"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:inputType="number"
+            android:tag="+91"
+            android:textColor="@color/md_black_1000"
+            android:textColorHint="@color/color_primary_hint_text"
+            android:textSize="19sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margins_20"
+            android:gravity="center"
+            android:text="@string/pinky_promise"
+            android:textColor="@color/light_gray"
+            android:textSize="13sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/signup_btn"
+            android:layout_width="250dp"
+            android:layout_height="44dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/margins_15"
+            android:background="@drawable/bg_btn_next"
+            android:elevation="2dp"
+            android:text="@string/next_btn"
+            android:textColor="@drawable/next_btn_state_color"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margins_5"
+            android:gravity="center"
+            android:text="@string/terms_link1"
+            android:textColor="@color/dark_gray"
+            android:textSize="13sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margins_5"
+            android:gravity="center"
+            android:layout_marginBottom="@dimen/margins_20"
+            android:text="@string/terms_link2"
+            android:textColorLink="@color/md_red_600"
+            android:textSize="13sp" />
+
+
+    </LinearLayout>
+</ScrollView>

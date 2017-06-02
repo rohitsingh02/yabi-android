@@ -1,0 +1,276 @@
+
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/white"
+            tools:context="com.yabi.yabiuserandroid.fragments.SigninProfileFragment">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="1"
+            tools:context=".fragments.ProfileFragment">
+
+            <FrameLayout
+                android:id="@+id/headerFl"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.45"
+                android:orientation="vertical"
+                tools:context=".fragments.ProfileFragment">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:weightSum="1">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="180dp"
+                        android:background="@color/profile_bg"
+                        android:gravity="center_horizontal"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/margins_40"
+                            android:gravity="center_horizontal"
+                            android:text="@string/nmste"
+                            android:textColor="@color/white"
+                            android:textSize="35sp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="0dp"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="-60dp"
+                        android:layout_weight="0.3"
+                        android:orientation="horizontal">
+
+                        <ImageButton
+                            android:id="@+id/male_btn"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:background="@color/default_transparent_color"
+                            android:src="@drawable/male_user_disabled" />
+
+                        <ImageButton
+                            android:id="@+id/male_tick"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="-15dp"
+                            android:layout_marginTop="3dp"
+                            android:background="@color/default_transparent_color"
+                            android:src="@drawable/selection"
+                            android:visibility="invisible" />
+
+                        <ImageView
+                            android:id="@+id/orbtn"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="@dimen/margins_15"
+                            android:layout_marginTop="8dp"
+                            android:textColor="@color/white"
+                            android:textSize="18sp" />
+
+                        <ImageButton
+                            android:id="@+id/female_btn"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:background="@color/default_transparent_color"
+                            android:src="@drawable/female_user_disabled" />
+
+                        <ImageButton
+                            android:id="@+id/female_tick"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="-15dp"
+                            android:layout_marginTop="3dp"
+                            android:background="@color/default_transparent_color"
+                            android:src="@drawable/selection"
+                            android:visibility="invisible" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </FrameLayout>
+
+            <LinearLayout
+                android:id="@+id/footerLl"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/margins_10"
+                android:layout_weight="0.55"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <android.support.design.widget.TextInputLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1">
+
+                        <com.yabi.yabiuserandroid.ui.uiutils.palette.CustomFontEditTextView
+                            android:id="@+id/fNameEt"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp"
+                            android:layout_marginRight="10dp"
+                            android:focusable="false"
+                            android:hint="@string/first_txt"
+                            android:inputType="textPersonName"
+                            android:paddingLeft="20dp"
+                            android:textColorHint="@color/color_primary_hint_text" />
+
+                    </android.support.design.widget.TextInputLayout>
+
+                    <android.support.design.widget.TextInputLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1">
+
+                        <com.yabi.yabiuserandroid.ui.uiutils.palette.CustomFontEditTextView
+                            android:id="@+id/lNameEt"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp"
+                            android:layout_marginRight="10dp"
+                            android:focusable="false"
+                            android:hint="@string/last_txt"
+                            android:inputType="textPersonName"
+                            android:paddingLeft="20dp"
+                            android:textColorHint="@color/color_primary_hint_text" />
+
+                    </android.support.design.widget.TextInputLayout>
+
+                </LinearLayout>
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp">
+
+                    <com.yabi.yabiuserandroid.ui.uiutils.palette.CustomFontEditTextView
+                        android:id="@+id/emailEt"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/nameLl"
+                        android:focusable="false"
+                        android:hint="@string/email_txt"
+                        android:inputType="textEmailAddress"
+                        android:paddingLeft="20dp"
+                        android:textColorHint="@color/color_primary_hint_text" />
+
+
+                </android.support.design.widget.TextInputLayout>
+
+                <TextView
+                    android:id="@+id/profile_mobile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:paddingLeft="20dp"
+                    android:text="MOBILE"
+                    android:textSize="12sp" />
+
+                <LinearLayout
+                    android:id="@+id/l1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal">
+
+                    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal"
+                        android:paddingLeft="@dimen/margins_20">
+
+                        <ImageView
+                            android:id="@+id/image"
+                            android:layout_width="25.67dp"
+                            android:layout_height="12dp"
+                            android:layout_marginTop="5dp"
+                            android:scaleType="centerInside"
+                            android:src="@drawable/flag" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="2dp"
+                            android:paddingRight="4dp"
+                            android:text="+91"
+                            android:textSize="16sp" />
+
+                        <ImageView
+                            android:layout_width="10dp"
+                            android:layout_height="10dp"
+                            android:layout_marginTop="5dp"
+                            android:src="@drawable/down_arrow" />
+
+                    </LinearLayout>
+
+                    <EditText
+                        android:id="@+id/phone"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:focusable="false"
+                        android:paddingLeft="10dp"
+                        android:text=""
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp">
+
+                    <com.yabi.yabiuserandroid.ui.uiutils.palette.CustomFontEditTextView
+                        android:id="@+id/dobEt"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/emailEt"
+                        android:focusable="false"
+                        android:hint="@string/dob_txt"
+                        android:inputType="date"
+                        android:paddingLeft="20dp"
+                        android:textColorHint="@color/color_primary_hint_text" />
+
+                </android.support.design.widget.TextInputLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+        </ScrollView>
+
+        <include
+            android:id="@+id/errorLayout"
+            layout="@layout/error_base_layout" />
+
+    </FrameLayout>
+
+
+

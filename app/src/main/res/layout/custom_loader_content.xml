@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/margins_15"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.wang.avi.AVLoadingIndicatorView
+        android:id="@+id/custom_loader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/AVLoadingIndicatorView"
+        android:layout_gravity="center"
+        android:layout_centerHorizontal="true"
+        android:visibility="visible"
+        app:indicatorName="BallClipRotateMultipleIndicator"
+        app:indicatorColor="@color/color_primary"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/custom_loader"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/margins_5"
+        android:textStyle="bold"
+        android:textColor="@color/primary_color"
+        android:gravity="center"
+        android:id="@+id/loadingContent"/>
+
+</RelativeLayout>

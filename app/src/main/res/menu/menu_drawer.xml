@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:checked="true"
+            android:title="Home"
+            android:icon="@drawable/ic_home_black_24dp"/>
+        <item
+            android:id="@+id/profile"
+            android:checked="false"
+            android:title="Profile"
+            android:icon="@drawable/ic_face_black_24dp"/>
+        <item
+            android:id="@+id/favourites"
+            android:checked="false"
+            android:title="Saved Deals"
+            android:icon="@drawable/ic_credit_card_black_24dp"/>
+        <item
+            android:id="@+id/action_share"
+            android:checked="false"
+            android:title="Share with friends"
+            android:icon="@drawable/ic_share_24dp"/>
+        <item
+            android:id="@+id/rate_us"
+            android:checked="false"
+            android:title="Rate Us"
+            android:icon="@drawable/ic_star_black_24dp"/>
+        <item
+            android:id="@+id/feedback"
+            android:checked="false"
+            android:title="Feedback"
+            android:icon="@drawable/ic_feedback_black_24dp"/>
+
+        <item
+            android:id="@+id/app_version"
+            android:checked="false"
+            android:title="Version"
+            android:icon="@null"
+            android:enabled="false"
+            />
+
+    </group>
+</menu>

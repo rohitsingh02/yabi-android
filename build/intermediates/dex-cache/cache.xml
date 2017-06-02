@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_d82de195b4aa5089a7dfe4d08d71e05bf905a885/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.0.0_aa91237031a5c66f238d58d500dc652d0675a5e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_5045d495aa6d58be99671fdb02959d85718747ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="990cba7dbe7fc91e1082a9a8ea6d663c0741a0f1">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.digits.sdk.android-digits-1.9.3_2690801c413c9cefad2ed7554ecf9bc9c73dda90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.14_f1c179e3c2b549303e7306b7f470fa618700f0a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_6b0410715a4a01fda2a15619f3fd84871172f122/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.2_471a20b27ed8b99714a129d53e43cccca438513c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.20.0/2408070b2abec043624d35b35e30450f1b663858/google-http-client-jackson2-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-jackson2-1.20.0_001131b2e3c05502db6abc247325044d53af5f64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_0646082953622a1ac2ca3890fc69a46dd236868e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers-shim/0.0.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffde64dbb0fc07c8b9735c6c42a06a36be15ed13">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-answers-shim-0.0.6_f2492fc4a0e71251ffbeff4ff524b530473e9568/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_6474d7f3abc075b0ff6220c39e06129f580e6a56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7d5f3434e7ba7ec1db48a307c823abb9406de042">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-2.6.4_f90bbec0c889359c8c89b64c9765e87a9be0ca73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.0.2_b46df0d24746263fc37c0fd2b36db959d15d225c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.2_186063c4a10630fe4d03743865a9b185c564d365/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.2_605a281a065843bae102367c08aa39945a9f183c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_552c869c1a66ff2f170d64f0ae1b843fd0c1a146/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43610081ff29694a7ec03048ac92e4abe1eedcc5">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5fbf6894cf2d5f396e011876b49a7c7ae9e8f50f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.wang.avi/library/2.1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.wang.avi-library-2.1.3_7198aee02311e213bac7536e29b3e08099d46df4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b272ca6a1525f5c6215224eb3cfeb32eb5270667">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-twitter-core-1.6.3_e4297990326ba61deb1bce6b4daf4f6825534816/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.0_88d6825679ee7340a069ab0220d58b0ce4128e00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9d69730126fffa5f62358fe99dafe41e87d4c334">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_002d2b82bc8e7190a091e599cb35f72ba6a087db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.2_ed817722f77bdcd01c83b7db8b77ff73bced3e84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.20.0/1d086ac5756475ddf451af2e2df6e288d18608ca/google-oauth-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-oauth-client-1.20.0_663ea22569fcf3f3f52a626ba0f0ccde692e43f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.2_9c4d40a73d7bf583fae5d42a71ae53e4ac916ae5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_83dee20428f3b950aa6c7f07426000de4e61d042/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.2.2/52bb5e2c528180a3d670d5f9daeb2018f1a7c899/MPAndroidChart-v2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="52bb5e2c528180a3d670d5f9daeb2018f1a7c899">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v2.2.2_74957d9a5a30488d3cfc242789eacc70f78cd4bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.2_fdb76d53b34015a94971f4f8131c1c6fc49aa791/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_32a3fdb0da15af0240290fcb2e8b009ab6a898c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.20.0/313dc99a7963523871495897ca11aa8472b3c6fd/google-http-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-android-1.20.0_d6c6e296c0ea6a5ce4b9a3ec7c89e0663cc57043/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.8.0/a517f29ed06be2b2879524fcd94b6e9b36e2e0b5/retrofit-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-1.8.0_0e0071e127976f5936556ecab0e0856f22063801/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_6dfae599665aff32f0c9046b4ab51695f77e7996/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.2.0_a42090a3fbf854566bd24bd73d83a90f730b6e4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-2.4.0_a8bc8ca8cf198181876efeec360f1e1aaa9cb0b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-jdk5-13.0_861dce92170608e3eed9ff524abd135c7a3becf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.facebook.rebound/rebound/0.3.4/b8087653d3e6b28c5d0e344c711c6118e1c35e7/rebound-0.3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0b8087653d3e6b28c5d0e344c711c6118e1c35e7">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/rebound-0.3.4_f30ceeed21369f86eef88e503b4f9a1bf6de3701/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.1.3_756e5999e45f6719eb057a2057f1b89ae0dc428a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-beta-1.2.2_3ac8d100e60ad7eb568b99cee524209c03933fd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-1.3.9_e4c3e650bf7f454664a3f0f6d1c81591253792ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_535992075d04aca9809d9861840f1fb01dc6ded8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/io.branch.sdk.android/library/2.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7bd9d462d13f7a7c8689afafe241fc746758bafe">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.branch.sdk.android-library-2.6.0_4bdcf088b61c384a556951a8d0ee877114b2d05d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_91bdfd138f2e6bc8c2fc7dc9e3c363537903057c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_da47fbad4a7181eae012470a318c55604f4b70c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_0095878d327eb5bbdf9daa9e44b8d6cdc24733f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.13/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="170568df2f078ef2a6892561f11742590c3d9c8c">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-core-2.3.13_83fa6974c19d7e090a091045597c79d9e92822be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.10/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ed6b455e3dd7bbf1ff31f8df0b41e2f0d87f3ace">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-answers-1.3.10_8a1db23efb806ac2690541a4c33d02cd72299ee9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/org.apmem.tools/layouts/1.10/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7a9f96bfbb71dc928a5d01440d879ef17f3f2349">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.apmem.tools-layouts-1.10_b975cfd9ab0abb78a448ce8bea2dbb3f503b60a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.20.0/d3e66209ae9e749b2d6833761e7885f60f285564/google-api-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-1.20.0_bc5f83ef792ab115938a9f5d327f2459d9f46671/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.mikepenz/materialize/0.2.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4b96e3ed84e7ff8e6e1cbd714755356938d8f173">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-materialize-0.2.6_a21802be10d4c4c9ab723ff6c6e555c84d2665d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_b960acb422276d757ff9f93731588499c812e72e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/4.3.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="56d4201846948e03b776e83420270160f5be809a">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-materialdrawer-4.3.7_59f2acb80807c1f58e8114083bed9fc860acda60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_a6e460fac29ffd27bea8b0707a2698e6da6e460a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.txusballesteros/bubbles/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b7efa6ff2b55fc9c3a29e42b4e7a0f1f8a846940">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.txusballesteros-bubbles-1.2.1_c79149d314953203014ad1dfd2844b659db57942/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_39ed09116c86b4c8a9835c5f21b2cf1f22bbb663/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.mikepenz/iconics-core/1.7.8/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="823931d182218843c873a769e9e035eb08561546">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-iconics-core-1.7.8_62b879fc648f4b4f51d36b3343d60334d65cff59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.2_24af1874a4ba6da1bd40072d250342ed045ef5e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_406250ccdd6cce56e05c7bf1094488db43a7093f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_8a91fe5b3e4fea21a493a54b5860595af08dd16f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.20.0/93d82db2bca534960253f43424b2ba9d7638b4d2/google-http-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-1.20.0_0f1bab9bf4c230cf21525dd40a7f3f14be4a91d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.20.0/5673179575c32b69a474334255c3044adf18d40/google-api-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-android-1.20.0_c2625022705087297d3ea1c3f3c31bed78152e4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.1/99ce730034c6f5aaed710d1e0e9df95e8714ed5f/logging-interceptor-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.3.1_0746122cfe96679b76f83c000540606f1b6476fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_cf024f44ea51841fb52f438c8bc9cf7d11ae9054/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.2_c969b38a03d0d1b85904aab819477b8a6ab446b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_d590cb76dbffcc4b511b05d2e9e94b2228a0453c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="/Users/rohitsingh/Desktop/user-android-developer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.6.0_0637ba226f038c3c458d42e0ae5076f1c752d62e/classes.dex" />
+    </item>
+
+</items>
